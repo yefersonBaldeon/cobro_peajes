@@ -1,0 +1,32 @@
+/* body{
+
+background: #8360c3;  
+background: -webkit-linear-gradient(to right, #2ebf91, #8360c3); 
+background: linear-gradient(to right, #2ebf91, #8360c3); 
+
+} */
+
+
+
+	/* body{|
+		background: url(https://www.xtrafondos.com/wallpapers/ciudad-montanas-al-atardecer-6421.jpg);
+		background-size: 100vw 100vh;
+		background-repeat: no-repeat;
+	} */
+
+
+    /* text-align: center; */
+body{
+
+background: #159957;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #155799, #159957);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #155799, #159957); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+
+    }
+
+.blanco{
+
+background: white;
+
+}
